@@ -5,7 +5,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/image_library
     username: root
-    password: 1911
+    password: 1234
 server:
   port: 8123
   servlet:
